@@ -23,3 +23,8 @@ git clone git@github.com:rfatolahzade/omy-adventure.git
 git clone git@github.com:rfatolahzade/anAWS-Training.git
 git clone git@github.com:rfatolahzade/anAnsible-Kubespray.git
 ```
+
+Your cloned repos are already in :
+```bash
+~/github-archive/repos/rfatolahzade
+```
