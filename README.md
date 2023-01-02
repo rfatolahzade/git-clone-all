@@ -28,3 +28,4 @@ Your cloned repos are already in :
 ```bash
 ~/github-archive/repos/rfatolahzade
 ```
+Prefer to use it as sudo user
